@@ -2,7 +2,7 @@
 
 Node.js Frankfurt is dedicated to providing a harassment-free meetup experience for everyone. We do not tolerate harassment of meetup participants in any form. Participants violating these rules may be sanctioned or expelled from the meetup at the discretion of the organisers.
 
-This code of conduct applies to attendees, speakers, and organisers at the monthly meetups and in related social events. This includes slide decks and listings on the job board.
+This code of conduct applies to attendees, speakers, and organisers at the meetups and in related social events. This includes slide decks and listings on job boards.
 
 ## Unacceptable Behaviour
 
@@ -21,6 +21,7 @@ The following behaviour is considered unacceptable and constitutes harassment:
 If a participant engages in harassing behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
 
 ## Reporting
+
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.
 
 ## Node.js Frankfurt Organizers
